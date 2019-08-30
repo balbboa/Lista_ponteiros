@@ -1,0 +1,4 @@
+	Ponteiros são úteis para realizar o acesso a uma variável em diferentes partes de um programa. Eles são utilizados para Alocação dinâmica de memória, manipulação de arrays, para retornar mais de um valor em uma função e referência para listas, pilhas, árvores e grafos. Essa ferramenta é importante para aplicações de Engenharia pois é possível ter um código ou projeto flexível e ágil.
+
+	Além de possibilitar uma economia de memória na passagem dos dados entre as funções e os processamentos necessários.
+
